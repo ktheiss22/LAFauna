@@ -1,6 +1,7 @@
-Lyssomanes_viridis
-Dolomedes_triton
-Latrocdectus_mactans
-Latrodectus_hasseltii
-Nephila_clavipes
-Latrodectus_geometricus
+Lyssomanes_viridis (magnolia green jumper)
+Dolomedes_triton (six-spotted fishing spider)
+Latrocdectus_mactans (southern black widow)
+
+Nephila_clavipes (banana spider)
+Latrodectus_geometricus (brown widow)
+
